@@ -1,45 +1,21 @@
 "timestamp","lat","lng","jenis","deskripsi","fotoUrl"
-"Sun Jul 05 2026 17:02:36 GMT+0900 (Korean Standard Time)","-7,554514","110,806115","Kualitas Udara Buruk","AQI : 147
-Status : Tidak sehat untuk kelompok orang sensitif 
-Update 5 Juli 2026 pukul 14:00 WIB",""
-"Wed Jul 08 2026 12:06:54 GMT+0900 (Korean Standard Time)","-6,237367","106,785975","Kualitas Udara Buruk","""AQI : 150
-Status : TIDAK SEHAT
-
-Stasiun pemantauan kualitas udara: Pakubuwono 3
-Update 8 Juli 2026 pukul 11:59 WIB""",""
-"Sun Jul 05 2026 17:14:23 GMT+0900 (Korean Standard Time)","-6,222382","106,788346","Kualitas Udara Buruk","AQI : 155
-Status : TIDAK SEHAT
-
-Stasiun pemantauan kualitas udara: Permata Hijau 3 - Nafas, Grogol Utara
-Update 5 Juli 2026 pukul 15:00 WIB",""
-"Mon Jul 06 2026 22:41:55 GMT+0900 (Korean Standard Time)","0,809969","127,332332","Erupsi Gunung Api","Informasi aktivitas kawah G. Gamalama 06 Juli 2026, 14.30-16.10 WITA, teramati asap berwarna putih, coklat, dan kelabu, tinggi 50-200 meter, arah angin barat-barat daya
-
-Hujan abu ringan dilaporkan permukiman barat daya Gamalama","https://web.telegram.org/a636f906-a1be-4261-b5da-d08abcfa3fc2"
-"Wed Jul 08 2026 12:13:59 GMT+0900 (Korean Standard Time)","-6,333223","106,744146","Kualitas Udara Buruk","""AQI : 145
-Status : Tidak Sehat Untuk kelompok Sensitif
-
-Stasiun pemantauan kualitas udara: Ciputat - Nafas
-Update 8 Juli 2026 pukul 12:00 WIB""",""
-"Wed Jul 08 2026 12:36:03 GMT+0900 (Korean Standard Time)","-6,298726","106,651127","Kualitas Udara Buruk","""AQI : 172
-Status : TIDAK SEHAT
-
-Stasiun pemantauan kualitas udara: Tangerang Selatan Serpong, BSD City
-Update 8 Juli 2026 pukul 12:00 WIB",""
-"Sat Jul 18 2026 00:33:15 GMT+0900 (Korean Standard Time)","-8.896275","121.636747","Erupsi Gunung Api","Report aktivitas : Gunung Iya
-Level II (Waspada)
-
-Iya, Jumat - 17 Juli 2026, periode 00:00-24:00 WITA. 
-Teramati asap kawah utama berwarna putih dengan intensitas tipis tinggi sekitar 50-100 meter dari puncak.","https://magma.vsi.esdm.go.id/img/ga/IYA/IYA202607172400.png"
-"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-0.87515","116.91788","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 14:58 WIB di provinsi IKN - Bakungan (sumber informasi : SiPongi Kementerian Kehutanan )",""
-"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-0.86436","116.92648","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 14:58 WIB di provinsi IKN - Bakungan (sumber informasi : SiPongi Kementerian Kehutanan )",""
-"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-0.87543","116.91934","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-SNPP pada Sabtu, 29-08-2026 12:21 WIB di provinsi IKN - Bakungan (sumber informasi : SiPongi Kementerian Kehutanan )",""
-"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-1.73575","103.96281","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-SNPP pada Sabtu, 29-08-2026 14:01 WIB di provinsi Jambi - Sungai Gelam (sumber informasi : SiPongi Kementerian Kehutanan )",""
-"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-6.93033","110.84661","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-NOAA20 pada Sabtu, 29-08-2026 12:38 WIB di provinsi Jawa Tengah - Kutuk (sumber informasi : SiPongi Kementerian Kehutanan )",""
-"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.05909","112.90524","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 08:02 WIB di provinsi Jawa Timur - Pasrujambe (sumber informasi : SiPongi Kementerian Kehutanan )",""
-"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.06054","112.90692","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 20:16 WIB di provinsi Jawa Timur - Pasrujambe (sumber informasi : SiPongi Kementerian Kehutanan )",""
-"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.05929","112.91588","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 20:16 WIB di provinsi Jawa Timur - Pasrujambe (sumber informasi : SiPongi Kementerian Kehutanan )",""
-"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.05805","112.92477","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 20:16 WIB di provinsi Jawa Timur - Pasrujambe (sumber informasi : SiPongi Kementerian Kehutanan )",""
-"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.05776","112.92278","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Minggu, 30-08-2026 03:21 WIB di provinsi Jawa Timur - Pasrujambe (sumber informasi : SiPongi Kementerian Kehutanan )",""
-"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.05556","112.90668","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Minggu, 30-08-2026 03:21 WIB di provinsi Jawa Timur - Pasrujambe (sumber informasi : SiPongi Kementerian Kehutanan )",""
-"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.02751","112.93219","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 20:16 WIB di provinsi Jawa Timur - Ranupani (sumber informasi : SiPongi Kementerian Kehutanan )",""
-"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.05906","112.9113","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-NOAA20 pada Minggu, 30-08-2026 01:24 WIB di provinsi Jawa Timur - Pasrujambe (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.05984","112.90987","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-SNPP pada Minggu, 30-08-2026 01:04 WIB di provinsi Jawa Timur - Pasrujambe (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.05769","112.91014","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-SNPP pada Minggu, 30-08-2026 01:04 WIB di provinsi Jawa Timur - Pasrujambe (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.0527","112.92194","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-SNPP pada Minggu, 30-08-2026 01:04 WIB di provinsi Jawa Timur - Pasrujambe (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-7.60606","111.38202","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 20:16 WIB di provinsi Jawa Timur - Temboro (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.11206","112.92269","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 20:16 WIB di provinsi Jawa Timur - Tamansari (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.06179","112.89796","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 20:16 WIB di provinsi Jawa Timur - Ngadas (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.05299","112.8968","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 20:16 WIB di provinsi Jawa Timur - Ngadas (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.05175","112.90568","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 20:16 WIB di provinsi Jawa Timur - Ngadas (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.04417","112.89571","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 20:16 WIB di provinsi Jawa Timur - Ngadas (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.03119","112.9056","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 20:16 WIB di provinsi Jawa Timur - Ngadas (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.02874","112.92317","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 20:16 WIB di provinsi Jawa Timur - Ngadas (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.05549","112.90177","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-NOAA20 pada Sabtu, 29-08-2026 12:38 WIB di provinsi Jawa Timur - Ngadas (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.05646","112.9028","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-SNPP pada Sabtu, 29-08-2026 12:18 WIB di provinsi Jawa Timur - Ngadas (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.03035","112.90872","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-SNPP pada Sabtu, 29-08-2026 14:01 WIB di provinsi Jawa Timur - Ngadas (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-8.02817","112.90834","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-SNPP pada Sabtu, 29-08-2026 14:01 WIB di provinsi Jawa Timur - Ngadas (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-7.90953","114.40361","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-NOAA20 pada Sabtu, 29-08-2026 12:38 WIB di provinsi Jawa Timur - Wonorejo (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-7.90896","114.40165","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-SNPP pada Sabtu, 29-08-2026 12:18 WIB di provinsi Jawa Timur - Wonorejo (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","-7.90808","114.39962","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-SNPP pada Sabtu, 29-08-2026 12:18 WIB di provinsi Jawa Timur - Wonorejo (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","0.85526","111.96176","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 20:18 WIB di provinsi Kalimantan Barat - Tinting Seligi (sumber informasi : SiPongi Kementerian Kehutanan )",""
+"Sun Aug 30 2026 08:30:15 GMT+0900 (Korean Standard Time)","0.76843","111.83405","Kebakaran Hutan/Lahan","Terdeteksi Kebakaran Hutan dan lahan oleh satelit NASA-MODIS pada Sabtu, 29-08-2026 15:01 WIB di provinsi Kalimantan Barat - Keling Panggau (sumber informasi : SiPongi Kementerian Kehutanan )",""
