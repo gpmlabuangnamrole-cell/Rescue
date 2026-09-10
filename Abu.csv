@@ -1,17 +1,61 @@
 Nama_Gunung,Lat_Gunung,Lng_Gunung,Waktu_VA,Data_Koordinat_VA,Waktu_6H,Data_Prediksi_6H,Waktu_12H,Data_Prediksi_12H,Waktu_18H,Data_Prediksi_18H,Kode_Warna
-Semeru - Jawa Timur,"-8,110811","112,9225016","Kamis, 10 September 2026 pukul 11.40.",S0807 E11250 - S0800 E11254 - S0803 E11321 - S0819 E11321 - S0830 E11311,"Kamis, 10 September 2026 pukul 17.40",S0804 E11249 - S0759 E11255 - S0810 E11321 - S0824 E11315 - S0831 E11304,"Kamis, 10 September 2026 pukul 23.40",S0805 E11250 - S0800 E11258 - S0811 E11324 - S0828 E11319 - S0836 E11258,"Jumat, 11 September 2026 pukul 05.40",S0803 E11248 - S0743 E11308 - S0750 E11322 - S0813 E11320 - S0816 E11252,Orange
-Anak Krakatau,"-6,102871","105,422294","Kamis, 10 September 2026 pukul 10.40.",S0611 E10527 - S0627 E10453 - S0556 E10439 - S0541 E10509 - S0555 E10533,"Kamis, 10 September 2026 pukul 16.40",S0612 E10531 - S0628 E10445 - S0552 E10443 - S0538 E10515 - S0601 E10533,"Kamis, 10 September 2026 pukul 22.40",S0611 E10530 - S0629 E10453 - S0608 E10441 - S0548 E10454 - S0559 E10530,"Jumat, 11 September 2026 pukul 04.40",S0609 E10531 - S0629 E10453 - S0613 E10438 - S0549 E10447 - S0559 E10529,Orange
-Anak Krakatau,"-6,102871","105,422294","Senin, 07 September 2026 pukul 11.10.",,"Senin, 07 September 2026 pukul 17.10",,"Senin, 07 September 2026 pukul 23.10",,"Selasa, 08 September 2026 pukul 05.10",,Orange
-Awu - Sulawesi Utara,,,"Jumat, 10 Juli 2026 pukul 17.50.",,"Jumat, 10 Juli 2026 pukul 23.50",,"Sabtu, 11 Juli 2026 pukul 05.50",,"Sabtu, 11 Juli 2026 pukul 11.50",,Orange
-Lewotobi Laki-laki,"-8,537438","122,7674317","Kamis, 27 Agustus 2026 pukul 03.20.",,"Kamis, 27 Agustus 2026 pukul 09.20",,"Kamis, 27 Agustus 2026 pukul 15.20",,"Kamis, 27 Agustus 2026 pukul 21.20",,Orange
-Lewotobi Perempuan,,,"Minggu, 12 Juli 2026 pukul 17.50.",,"Minggu, 12 Juli 2026 pukul 23.50",,"Senin, 13 Juli 2026 pukul 05.50",,"Senin, 13 Juli 2026 pukul 11.50",,
-Merapi Tawa Tengah,"-7,541484","110,445439","Senin, 13 Juli 2026 pukul 17.50.",,"Senin, 13 Juli 2026 pukul 23.50",,"Selasa, 14 Juli 2026 pukul 05.50",,"Selasa, 14 Juli 2026 pukul 11.50",,
-Dempo - Sumatera Selatan,,,"Selasa, 14 Juli 2026 pukul 17.50.",,"Selasa, 14 Juli 2026 pukul 23.50",,"Rabu, 15 Juli 2026 pukul 05.50",,"Rabu, 15 Juli 2026 pukul 11.50",,
-Dukono - Maluku Utara,"1,6997133","127,8785419","Kamis, 10 September 2026 pukul 07.10.",N0138 E12753 - N0148 E12743 - N0215 E12800 - N0155 E12823 - N0140 E12801,"Kamis, 10 September 2026 pukul 13.10",N0130 E12753 - N0137 E12740 - N0150 E12742 - N0200 E12758 - N0141 E12811,"Kamis, 10 September 2026 pukul 19.10",N0130 E12750 - N0141 E12738 - N0155 E12749 - N0151 E12806 - N0133 E12804,"Jumat, 11 September 2026 pukul 01.10",N0129 E12750 - N0138 E12739 - N0154 E12747 - N0151 E12806 - N0133 E12804,Kuning
-Ili Lewotolok - Nusa Tenggara Timur,"-8,273319","123,506713","Kamis, 10 September 2026 pukul 12.40.",S0814 E12333 - S0821 E12331 - S0818 E12253 - S0800 E12246 - S0752 E12300,"Kamis, 10 September 2026 pukul 18.40",S0814 E12333 - S0820 E12332 - S0830 E12250 - S0814 E12236 - S0802 E12253,"Jumat, 11 September 2026 pukul 00.40",S0814 E12332 - S0819 E12333 - S0836 E12257 - S0825 E12242 - S0811 E12254,"Jumat, 11 September 2026 pukul 06.40",S0813 E12333 - S0821 E12332 - S0822 E12242 - S0809 E12237 - S0757 E12246,Orange
-Ibu - Maluku Utara,"1,4944888","127,6333773","Kamis, 10 September 2026 pukul 10.00.",N0132 E12740 - N0127 E12741 - N0109 E12717 - N0125 E12711 - N0138 E12716,"Kamis, 10 September 2026 pukul 16.00",N0132 E12739 - N0127 E12741 - N0109 E12728 - N0117 E12716 - N0133 E12717,"Kamis, 10 September 2026 pukul 22.00",N0132 E12740 - N0127 E12742 - N0106 E12729 - N0115 E12713 - N0132 E12714,"Jumat, 11 September 2026 pukul 04.00",N0131 E12740 - N0127 E12740 - N0115 E12717 - N0128 E12709 - N0142 E12718,Orange
-Marapi - Sumatera Barat,,,"Sabtu, 18 Juli 2026 pukul 17.50.",,"Sabtu, 18 Juli 2026 pukul 23.50",,"Minggu, 19 Juli 2026 pukul 05.50",,"Minggu, 19 Juli 2026 pukul 11.50",,
-Raung,,,"Minggu, 19 Juli 2026 pukul 17.50.",,"Minggu, 19 Juli 2026 pukul 23.50",,"Senin, 20 Juli 2026 pukul 05.50",,"Senin, 20 Juli 2026 pukul 11.50",,
-Karangetang,,,"Senin, 20 Juli 2026 pukul 17.50.",,"Senin, 20 Juli 2026 pukul 23.50",,"Selasa, 21 Juli 2026 pukul 05.50",,"Selasa, 21 Juli 2026 pukul 11.50",,
-Marapi - Sumatera Barat,"-0,391662","100,455476","Rabu, 29 Juli 2026 pukul 23.10.",,"Kamis, 30 Juli 2026 pukul 05.10",,"Kamis, 30 Juli 2026 pukul 11.10",,"Kamis, 30 Juli 2026 pukul 17.10",,
-Sinabung - Sumatera Utara,3.171378,98.392491,"Jumat, 04 September 2026 pukul 10.30.",,"Jumat, 04 September 2026 pukul 16.30",,"Jumat, 04 September 2026 pukul 22.30",,"Sabtu, 05 September 2026 pukul 04.30",,Orange
+Semeru - Jawa Timur,-8.110811,112.9225016,Thu Sep 10 2026 11:40:00 GMT+0900 (Korean Standard Time),S0807 E11250 - S0800 E11254 - S0803 E11321 - S0819 E11321 - S0830 E11311,"Kamis, 10 September 2026 pukul 17.40",S0804 E11249 - S0759 E11255 - S0810 E11321 - S0824 E11315 - S0831 E11304,"Kamis, 10 September 2026 pukul 23.40",S0805 E11250 - S0800 E11258 - S0811 E11324 - S0828 E11319 - S0836 E11258,"Jumat, 11 September 2026 pukul 05.40",S0803 E11248 - S0743 E11308 - S0750 E11322 - S0813 E11320 - S0816 E11252,Orange
+Anak Krakatau,-6.102871,105.422294,Thu Sep 10 2026 10:40:00 GMT+0900 (Korean Standard Time),S0611 E10527 - S0627 E10453 - S0556 E10439 - S0541 E10509 - S0555 E10533,"Kamis, 10 September 2026 pukul 16.40",S0612 E10531 - S0628 E10445 - S0552 E10443 - S0538 E10515 - S0601 E10533,"Kamis, 10 September 2026 pukul 22.40",S0611 E10530 - S0629 E10453 - S0608 E10441 - S0548 E10454 - S0559 E10530,"Jumat, 11 September 2026 pukul 04.40",S0609 E10531 - S0629 E10453 - S0613 E10438 - S0549 E10447 - S0559 E10529,Orange
+Anak Krakatau,-6.102871,105.422294,Mon Sep 07 2026 11:10:00 GMT+0900 (Korean Standard Time),,"Senin, 07 September 2026 pukul 17.10",,"Senin, 07 September 2026 pukul 23.10",,"Selasa, 08 September 2026 pukul 05.10",,Orange
+Awu - Sulawesi Utara,,,Fri Jul 10 2026 17:50:00 GMT+0900 (Korean Standard Time),,"Jumat, 10 Juli 2026 pukul 23.50",,"Sabtu, 11 Juli 2026 pukul 05.50",,"Sabtu, 11 Juli 2026 pukul 11.50",,Orange
+Lewotobi Laki-laki,-8.537438,122.7674317,Thu Aug 27 2026 03:20:00 GMT+0900 (Korean Standard Time),,"Kamis, 27 Agustus 2026 pukul 09.20",,"Kamis, 27 Agustus 2026 pukul 15.20",,"Kamis, 27 Agustus 2026 pukul 21.20",,Orange
+Lewotobi Perempuan,,,Sun Jul 12 2026 17:50:00 GMT+0900 (Korean Standard Time),,"Minggu, 12 Juli 2026 pukul 23.50",,"Senin, 13 Juli 2026 pukul 05.50",,"Senin, 13 Juli 2026 pukul 11.50",,
+Merapi Tawa Tengah,-7.541484,110.445439,Mon Jul 13 2026 17:50:00 GMT+0900 (Korean Standard Time),,"Senin, 13 Juli 2026 pukul 23.50",,"Selasa, 14 Juli 2026 pukul 05.50",,"Selasa, 14 Juli 2026 pukul 11.50",,
+Dempo - Sumatera Selatan,,,Tue Jul 14 2026 17:50:00 GMT+0900 (Korean Standard Time),,"Selasa, 14 Juli 2026 pukul 23.50",,"Rabu, 15 Juli 2026 pukul 05.50",,"Rabu, 15 Juli 2026 pukul 11.50",,
+Dukono - Maluku Utara,1.6997133,127.8785419,Thu Sep 10 2026 07:10:00 GMT+0900 (Korean Standard Time),N0138 E12753 - N0148 E12743 - N0215 E12800 - N0155 E12823 - N0140 E12801,"Kamis, 10 September 2026 pukul 13.10",N0130 E12753 - N0137 E12740 - N0150 E12742 - N0200 E12758 - N0141 E12811,"Kamis, 10 September 2026 pukul 19.10",N0130 E12750 - N0141 E12738 - N0155 E12749 - N0151 E12806 - N0133 E12804,"Jumat, 11 September 2026 pukul 01.10",N0129 E12750 - N0138 E12739 - N0154 E12747 - N0151 E12806 - N0133 E12804,Kuning
+Ili Lewotolok - Nusa Tenggara Timur,-8.273319,123.506713,Thu Sep 10 2026 12:40:00 GMT+0900 (Korean Standard Time),S0814 E12333 - S0821 E12331 - S0818 E12253 - S0800 E12246 - S0752 E12300,"Kamis, 10 September 2026 pukul 18.40",S0814 E12333 - S0820 E12332 - S0830 E12250 - S0814 E12236 - S0802 E12253,"Jumat, 11 September 2026 pukul 00.40",S0814 E12332 - S0819 E12333 - S0836 E12257 - S0825 E12242 - S0811 E12254,"Jumat, 11 September 2026 pukul 06.40",S0813 E12333 - S0821 E12332 - S0822 E12242 - S0809 E12237 - S0757 E12246,Orange
+Ibu - Maluku Utara,1.4944888,127.6333773,Thu Sep 10 2026 10:00:00 GMT+0900 (Korean Standard Time),N0132 E12740 - N0127 E12741 - N0109 E12717 - N0125 E12711 - N0138 E12716,"Kamis, 10 September 2026 pukul 16.00",N0132 E12739 - N0127 E12741 - N0109 E12728 - N0117 E12716 - N0133 E12717,"Kamis, 10 September 2026 pukul 22.00",N0132 E12740 - N0127 E12742 - N0106 E12729 - N0115 E12713 - N0132 E12714,"Jumat, 11 September 2026 pukul 04.00",N0131 E12740 - N0127 E12740 - N0115 E12717 - N0128 E12709 - N0142 E12718,Orange
+Marapi - Sumatera Barat,,,Sat Jul 18 2026 17:50:00 GMT+0900 (Korean Standard Time),,"Sabtu, 18 Juli 2026 pukul 23.50",,"Minggu, 19 Juli 2026 pukul 05.50",,"Minggu, 19 Juli 2026 pukul 11.50",,
+Raung,,,Sun Jul 19 2026 17:50:00 GMT+0900 (Korean Standard Time),,"Minggu, 19 Juli 2026 pukul 23.50",,"Senin, 20 Juli 2026 pukul 05.50",,"Senin, 20 Juli 2026 pukul 11.50",,
+Karangetang,,,Mon Jul 20 2026 17:50:00 GMT+0900 (Korean Standard Time),,"Senin, 20 Juli 2026 pukul 23.50",,"Selasa, 21 Juli 2026 pukul 05.50",,"Selasa, 21 Juli 2026 pukul 11.50",,
+Marapi - Sumatera Barat,-0.391662,100.455476,Wed Jul 29 2026 23:10:00 GMT+0900 (Korean Standard Time),,"Kamis, 30 Juli 2026 pukul 05.10",,"Kamis, 30 Juli 2026 pukul 11.10",,"Kamis, 30 Juli 2026 pukul 17.10",,
+Sinabung - Sumatera Utara,3.171378,98.392491,Fri Sep 04 2026 10:30:00 GMT+0900 (Korean Standard Time),,"Jumat, 04 September 2026 pukul 16.30",,"Jumat, 04 September 2026 pukul 22.30",,"Sabtu, 05 September 2026 pukul 04.30",,Orange
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
