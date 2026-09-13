@@ -1,5 +1,5 @@
 latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,instrument,confidence,version,bright_ti5,frp,daynight,waktu_tarik_wib,kategori_tingkat
--8.26309,140.62688,337.55,0.6,0.7,2026-09-12,1520,N,VIIRS,n,2.0NRT,288.15,6.73,N,"2026-09-13 4:56:28",Sedang
+-8.26309,140.62688,337.55,0.6,0.7,2026-09-12,1520,N,VIIRS,n,2.0NRT,288.15,6.73,N,"2026-09-13 2:56:28",Sedang
 -6.491,140.84489,367,0.62,0.72,2026-09-12,1520,N,VIIRS,h,2.0NRT,283.33,10.95,N,"2026-09-13 2:56:28",Tinggi
 -6.48765,140.84666,350.57,0.62,0.72,2026-09-12,1520,N,VIIRS,n,2.0NRT,285.31,11.17,N,"2026-09-13 2:56:28",Tinggi
 -6.4866,140.84094,335.85,0.62,0.72,2026-09-12,1520,N,VIIRS,n,2.0NRT,286.5,11.17,N,"2026-09-13 2:56:28",Sedang
