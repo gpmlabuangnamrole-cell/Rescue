@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T13:55:53.232Z",
+  "last_updated": "2026-11-12T13:56:02.638Z",
   "features": [
     {
       "type": "Feature",
@@ -100,7 +100,8 @@
         "warnaStatus": "ORANYE",
         "validTimeFrom": "12 Nov 2026, 17.30 WIB",
         "forecast": {
-          "+6": "S0811 E11300 - S0844\r\nE11211 - S0813 E11156 - S0759 E11256"
+          "+6": "S0811 E11300 - S0844\r\nE11211 - S0813 E11156 - S0759 E11256",
+          "+12": "S0811 E11300 - S0825\r\nE11159 - S0755 E11156 - S0759 E11256"
         }
       },
       "geometry": {
