@@ -1,0 +1,141 @@
+{
+  "last_updated": "2026-11-12T10:32:30.646Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "qualifier": "ERUPTION MT DUKONO",
+        "firName": "WAAF UJUNG PANDANG",
+        "top": 9000,
+        "dir": "W",
+        "spd": "10",
+        "warnaStatus": "KUNING",
+        "validTimeFrom": "12 Nov 2026, 16.50 WIB",
+        "forecast": {
+          "+6": "N0146 E12758 - N0137\r\nE12758 - N0127 E12642 - N0205 E12646",
+          "+12": "N0146 E12758 - N0137\r\nE12758 - N0131 E12641 - N0212 E12648",
+          "+18": "N0146 E12758 - N0137\r\nE12758 - N0138 E12641 - N0224 E12654"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.967,
+              1.767
+            ],
+            [
+              127.967,
+              1.617
+            ],
+            [
+              126.717,
+              1.417
+            ],
+            [
+              126.733,
+              2.017
+            ],
+            [
+              127.967,
+              1.767
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "qualifier": "ERUPTION MT IBU",
+        "firName": "WAAF UJUNG PANDANG",
+        "top": 7000,
+        "dir": "W",
+        "spd": "10",
+        "warnaStatus": "KUNING",
+        "validTimeFrom": "12 Nov 2026, 11.50 WIB",
+        "forecast": {
+          "+6": "N0127\r\nE12741 - N0119 E12653 - N0144 E12655 - N0133 E12741",
+          "+12": "N0127 E12741 - N0118\r\nE12654 - N0143 E12654 - N0134 E12741",
+          "+18": "N0127 E12741 - N0125\r\nE12649 - N0150 E12655 - N0132 E12742"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.683,
+              1.467
+            ],
+            [
+              126.983,
+              1.217
+            ],
+            [
+              126.8,
+              1.433
+            ],
+            [
+              126.967,
+              1.683
+            ],
+            [
+              127.683,
+              1.55
+            ],
+            [
+              127.683,
+              1.467
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "qualifier": "ERUPTION MT SEMERU",
+        "firName": "WAAF UJUNG PANDANG",
+        "top": 15000,
+        "dir": "SW",
+        "spd": "10",
+        "warnaStatus": "ORANYE",
+        "validTimeFrom": "12 Nov 2026, 11.30 WIB",
+        "forecast": {
+          "+6": "S0806 E11302 - S0848\r\nE11217 - S0815 E11156 - S0757 E11257",
+          "+12": "S0806 E11302 - S0845\r\nE11207 - S0806 E11152 - S0757 E11257",
+          "+18": "S0807 E11300 - S0831\r\nE11152 - S0749 E11150 - S0759 E11258"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.033,
+              -8.033
+            ],
+            [
+              112.567,
+              -9.017
+            ],
+            [
+              112,
+              -8.517
+            ],
+            [
+              112.9,
+              -7.917
+            ],
+            [
+              113.033,
+              -8.033
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
