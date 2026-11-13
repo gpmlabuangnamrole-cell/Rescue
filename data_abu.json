@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T05:01:12.483Z",
+  "last_updated": "2026-11-13T05:11:38.549Z",
   "features": [
     {
       "type": "Feature",
@@ -40,50 +40,6 @@
             [
               127.933,
               1.617
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "qualifier": "ERUPTION MT IBU",
-        "firName": "WAAF UJUNG PANDANG",
-        "top": 6000,
-        "dir": "NW",
-        "spd": "10",
-        "warnaStatus": "KUNING",
-        "validTimeFrom": "13 Nov 2026, 05.50 WIB",
-        "forecast": {
-          "+6": "N0126 E12739 - N0127\r\nE12653 - N0155 E12700 - N0132 E12741",
-          "+12": "N0126 E12739 - N0125\r\nE12653 - N0154 E12658 - N0131 E12740",
-          "+18": "N0126 E12739 - N0127\r\nE12653 - N0156 E12659 - N0132 E12741"
-        }
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              127.65,
-              1.433
-            ],
-            [
-              126.933,
-              1.433
-            ],
-            [
-              127,
-              1.85
-            ],
-            [
-              127.683,
-              1.533
-            ],
-            [
-              127.65,
-              1.433
             ]
           ]
         ]
