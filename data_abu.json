@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T05:00:39.769Z",
+  "last_updated": "2026-11-13T05:00:53.636Z",
   "features": [
     {
       "type": "Feature",
@@ -11,7 +11,9 @@
         "spd": "10",
         "warnaStatus": "KUNING",
         "validTimeFrom": "13 Nov 2026, 10.50 WIB",
-        "forecast": {}
+        "forecast": {
+          "+6": "N0138 E12755 - N0138\r\nE12642 - N0223 E12651 - N0146 E12758"
+        }
       },
       "geometry": {
         "type": "Polygon",
