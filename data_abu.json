@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T10:33:02.866Z",
+  "last_updated": "2026-11-13T11:17:12.187Z",
   "features": [
     {
       "type": "Feature",
@@ -51,12 +51,12 @@
         "qualifier": "ERUPTION MT IBU",
         "firName": "WAAF UJUNG PANDANG",
         "top": 6000,
-        "dir": "NW",
-        "spd": "15",
+        "dir": "W",
+        "spd": "10",
         "warnaStatus": "KUNING",
-        "validTimeFrom": "13 Nov 2026, 11.50 WIB",
+        "validTimeFrom": "13 Nov 2026, 17.50 WIB",
         "forecast": {
-          "+6": "N0131 E12740 - N0126\r\nE12739 - N0125 E12653 - N0154 E12658",
+          "+6": "N0126 E12739 - N0127\r\nE12653 - N0156 E12659 - N0132 E12741",
           "+12": "N0126 E12739 - N0127\r\nE12653 - N0156 E12659 - N0132 E12741",
           "+18": "N0126 E12740 - N0125\r\nE12652 - N0156 E12659 - N0133 E12742"
         }
@@ -66,24 +66,68 @@
         "coordinates": [
           [
             [
+              127.667,
+              1.517
+            ],
+            [
               127.65,
               1.433
             ],
             [
               126.883,
-              1.45
+              1.417
             ],
             [
-              127,
-              1.917
+              126.967,
+              1.9
             ],
             [
-              127.683,
-              1.533
+              127.667,
+              1.517
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "qualifier": "ERUPTION MT SEMERU",
+        "firName": "WAAF UJUNG PANDANG",
+        "top": 15000,
+        "dir": "W",
+        "spd": "15",
+        "warnaStatus": "ORANYE",
+        "validTimeFrom": "13 Nov 2026, 17.20 WIB",
+        "forecast": {
+          "+6": "S0809 E11257 - S0824\r\nE11157 - S0745 E11157 - S0800 E11257",
+          "+12": "S0810 E11257 - S0822\r\nE11156 - S0745 E11158 - S0800 E11257",
+          "+18": "S0809 E11258 - S0826\r\nE11158 - S0748 E11156 - S0800 E11256"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.95,
+              -8.167
             ],
             [
-              127.65,
-              1.433
+              111.933,
+              -8.367
+            ],
+            [
+              111.967,
+              -7.75
+            ],
+            [
+              112.95,
+              -8.017
+            ],
+            [
+              112.95,
+              -8.167
             ]
           ]
         ]
