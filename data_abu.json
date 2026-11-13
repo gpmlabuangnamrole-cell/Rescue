@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-11-12T13:56:12.985Z",
+  "last_updated": "2026-11-13T01:15:31.060Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "qualifier": "ERUPTION MT DUKONO",
         "firName": "WAAF UJUNG PANDANG",
-        "top": 9000,
-        "dir": "W",
+        "top": 8000,
+        "dir": "NW",
         "spd": "10",
         "warnaStatus": "KUNING",
-        "validTimeFrom": "12 Nov 2026, 16.50 WIB",
+        "validTimeFrom": "13 Nov 2026, 04.50 WIB",
         "forecast": {
-          "+6": "N0146 E12758 - N0137\r\nE12758 - N0127 E12642 - N0205 E12646",
+          "+6": "N0137 E12756 - N0140\r\nE12643 - N0227 E12656 - N0146 E12758",
           "+12": "N0146 E12758 - N0137\r\nE12758 - N0131 E12641 - N0212 E12648",
           "+18": "N0146 E12758 - N0137\r\nE12758 - N0138 E12641 - N0224 E12654"
         }
@@ -22,24 +22,24 @@
         "coordinates": [
           [
             [
-              127.967,
-              1.767
-            ],
-            [
-              127.967,
+              127.917,
               1.617
             ],
             [
               126.717,
-              1.417
+              1.733
             ],
             [
-              126.733,
-              2.017
+              126.95,
+              2.483
             ],
             [
               127.967,
-              1.767
+              1.733
+            ],
+            [
+              127.917,
+              1.617
             ]
           ]
         ]
@@ -50,11 +50,11 @@
       "properties": {
         "qualifier": "ERUPTION MT IBU",
         "firName": "WAAF UJUNG PANDANG",
-        "top": 7000,
-        "dir": "W",
+        "top": 6000,
+        "dir": "NW",
         "spd": "10",
         "warnaStatus": "KUNING",
-        "validTimeFrom": "12 Nov 2026, 17.50 WIB",
+        "validTimeFrom": "13 Nov 2026, 05.50 WIB",
         "forecast": {
           "+6": "N0126 E12741 - N0125\r\nE12653 - N0144 E12655 - N0132 E12741",
           "+12": "N0126 E12741 - N0131\r\nE12653 - N0150 E12657 - N0132 E12741",
@@ -66,23 +66,23 @@
         "coordinates": [
           [
             [
-              127.683,
+              127.65,
               1.433
             ],
             [
-              126.883,
-              1.3
+              126.933,
+              1.433
             ],
             [
-              126.917,
-              1.717
+              127,
+              1.85
             ],
             [
               127.683,
               1.533
             ],
             [
-              127.683,
+              127.65,
               1.433
             ]
           ]
@@ -95,10 +95,10 @@
         "qualifier": "ERUPTION MT SEMERU",
         "firName": "WAAF UJUNG PANDANG",
         "top": 15000,
-        "dir": "SW",
-        "spd": "10",
+        "dir": "W",
+        "spd": "15",
         "warnaStatus": "ORANYE",
-        "validTimeFrom": "12 Nov 2026, 17.30 WIB",
+        "validTimeFrom": "13 Nov 2026, 05.10 WIB",
         "forecast": {
           "+6": "S0811 E11300 - S0844\r\nE11211 - S0813 E11156 - S0759 E11256",
           "+12": "S0811 E11300 - S0825\r\nE11159 - S0755 E11156 - S0759 E11256",
@@ -110,23 +110,23 @@
         "coordinates": [
           [
             [
-              113,
+              112.967,
               -8.183
             ],
             [
-              112.217,
-              -8.767
+              111.983,
+              -8.4
             ],
             [
               111.967,
-              -8.367
+              -7.867
             ],
             [
-              112.933,
-              -7.983
+              112.95,
+              -8
             ],
             [
-              113,
+              112.967,
               -8.183
             ]
           ]
