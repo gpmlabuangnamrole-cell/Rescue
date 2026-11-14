@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T11:21:28.817Z",
+  "last_updated": "2026-11-14T00:46:55.188Z",
   "features": [
     {
       "type": "Feature",
@@ -7,15 +7,11 @@
         "qualifier": "ERUPTION MT DUKONO",
         "firName": "WAAF UJUNG PANDANG",
         "top": 8000,
-        "dir": "W",
+        "dir": "NW",
         "spd": "10",
         "warnaStatus": "KUNING",
-        "validTimeFrom": "13 Nov 2026, 16.50 WIB",
-        "forecast": {
-          "+6": "N0138 E12756 - N0142\r\nE12641 - N0229 E12653 - N0147 E12758",
-          "+12": "N0139 E12756 - N0140\r\nE12639 - N0227 E12651 - N0149 E12758",
-          "+18": "N0138 E12756 - N0134\r\nE12640 - N0223 E12647 - N0148 E12757"
-        }
+        "validTimeFrom": "14 Nov 2026, 04.10 WIB",
+        "forecast": {}
       },
       "geometry": {
         "type": "Polygon",
@@ -23,23 +19,23 @@
           [
             [
               127.933,
-              1.633
+              1.65
             ],
             [
-              126.7,
-              1.633
+              126.717,
+              1.667
             ],
             [
-              126.85,
-              2.383
+              126.933,
+              2.417
             ],
             [
-              127.967,
-              1.767
+              127.95,
+              1.8
             ],
             [
               127.933,
-              1.633
+              1.65
             ]
           ]
         ]
@@ -52,14 +48,10 @@
         "firName": "WAAF UJUNG PANDANG",
         "top": 6000,
         "dir": "W",
-        "spd": "10",
+        "spd": "5",
         "warnaStatus": "KUNING",
-        "validTimeFrom": "13 Nov 2026, 17.50 WIB",
-        "forecast": {
-          "+6": "N0126 E12739 - N0127\r\nE12653 - N0156 E12659 - N0132 E12741",
-          "+12": "N0126 E12740 - N0125\r\nE12652 - N0156 E12659 - N0133 E12742",
-          "+18": "N0126 E12740 - N0123\r\nE12653 - N0153 E12656 - N0134 E12741"
-        }
+        "validTimeFrom": "14 Nov 2026, 05.50 WIB",
+        "forecast": {}
       },
       "geometry": {
         "type": "Polygon",
@@ -67,23 +59,23 @@
           [
             [
               127.667,
-              1.517
-            ],
-            [
-              127.65,
               1.433
             ],
             [
-              126.883,
+              127.083,
               1.417
             ],
             [
-              126.967,
-              1.9
+              127.15,
+              1.8
+            ],
+            [
+              127.683,
+              1.55
             ],
             [
               127.667,
-              1.517
+              1.433
             ]
           ]
         ]
@@ -96,53 +88,9 @@
         "firName": "WAAF UJUNG PANDANG",
         "top": 15000,
         "dir": "W",
-        "spd": "15",
-        "warnaStatus": "ORANYE",
-        "validTimeFrom": "13 Nov 2026, 17.20 WIB",
-        "forecast": {
-          "+6": "S0809 E11257 - S0824\r\nE11157 - S0745 E11157 - S0800 E11257",
-          "+12": "S0810 E11257 - S0822\r\nE11156 - S0745 E11158 - S0800 E11257",
-          "+18": "S0809 E11258 - S0826\r\nE11158 - S0748 E11156 - S0800 E11256"
-        }
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              112.95,
-              -8.167
-            ],
-            [
-              111.933,
-              -8.367
-            ],
-            [
-              111.967,
-              -7.75
-            ],
-            [
-              112.95,
-              -8.017
-            ],
-            [
-              112.95,
-              -8.167
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "qualifier": "ERUPTION MT KARANGETANG",
-        "firName": "WAAF UJUNG PANDANG",
-        "top": 6000,
-        "dir": "NW",
         "spd": "10",
-        "warnaStatus": "KUNING",
-        "validTimeFrom": "13 Nov 2026, 18.00 WIB",
+        "warnaStatus": "ORANYE",
+        "validTimeFrom": "14 Nov 2026, 05.10 WIB",
         "forecast": {}
       },
       "geometry": {
@@ -150,24 +98,28 @@
         "coordinates": [
           [
             [
-              125.483,
-              2.8
+              112.967,
+              -8.15
             ],
             [
-              125.417,
-              2.7
+              112.667,
+              -8.417
             ],
             [
-              124.983,
-              2.767
+              112.167,
+              -8.517
             ],
             [
-              125.233,
-              3.15
+              112.133,
+              -7.833
             ],
             [
-              125.483,
-              2.8
+              112.933,
+              -8
+            ],
+            [
+              112.967,
+              -8.15
             ]
           ]
         ]
