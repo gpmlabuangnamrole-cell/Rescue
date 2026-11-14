@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T17:51:15.001Z",
+  "last_updated": "2026-11-14T21:36:12.624Z",
   "features": [
     {
       "type": "Feature",
@@ -7,10 +7,10 @@
         "qualifier": "ERUPTION MT DUKONO",
         "firName": "WAAF UJUNG PANDANG",
         "top": 8000,
-        "dir": "W",
-        "spd": "10",
+        "dir": "SW",
+        "spd": "5",
         "warnaStatus": "KUNING",
-        "validTimeFrom": "14 Nov 2026, 22.10 WIB",
+        "validTimeFrom": "15 Nov 2026, 04.10 WIB",
         "forecast": {
           "+6": "N0141 E12758 - N0107\nE12709 - N0125 E12649 - N0151 E12657 - N0152 E12755",
           "+12": "N0144 E12759 - N0113\r\nE12741 - N0120 E12719 - N0141 E12718 - N0150 E12754",
@@ -22,28 +22,28 @@
         "coordinates": [
           [
             [
-              127.967,
-              1.683
+              128,
+              1.65
             ],
             [
-              127.217,
-              1.333
-            ],
-            [
-              126.983,
-              1.567
+              127.483,
+              1.15
             ],
             [
               127.15,
-              1.867
+              1.35
+            ],
+            [
+              127.25,
+              1.733
             ],
             [
               127.917,
-              1.85
+              1.817
             ],
             [
-              127.967,
-              1.683
+              128,
+              1.65
             ]
           ]
         ]
@@ -132,46 +132,6 @@
             [
               113.017,
               -8.1
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "qualifier": "ERUPTION MT KARANGETANG",
-        "firName": "WAAF UJUNG PANDANG",
-        "top": 6000,
-        "dir": "SW",
-        "spd": "10",
-        "warnaStatus": "KUNING",
-        "validTimeFrom": "14 Nov 2026, 22.40 WIB",
-        "forecast": {}
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              125.417,
-              2.783
-            ],
-            [
-              125.367,
-              2.717
-            ],
-            [
-              125.317,
-              2.783
-            ],
-            [
-              125.417,
-              2.8
-            ],
-            [
-              125.417,
-              2.783
             ]
           ]
         ]
