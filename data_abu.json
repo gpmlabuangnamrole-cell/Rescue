@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T05:36:12.435Z",
+  "last_updated": "2026-11-17T06:21:12.891Z",
   "features": [
     {
       "type": "Feature",
@@ -132,6 +132,50 @@
             [
               112.983,
               -8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "qualifier": "ERUPTION MT KARANGETANG",
+        "firName": "WAAF UJUNG PANDANG",
+        "top": 9000,
+        "dir": "SW",
+        "spd": "15",
+        "warnaStatus": "KUNING",
+        "validTimeFrom": "17 Nov 2026, 12.40 WIB",
+        "forecast": {}
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.417,
+              2.8
+            ],
+            [
+              125.433,
+              2.767
+            ],
+            [
+              125.283,
+              2.683
+            ],
+            [
+              125.233,
+              2.733
+            ],
+            [
+              125.233,
+              2.8
+            ],
+            [
+              125.417,
+              2.8
             ]
           ]
         ]
