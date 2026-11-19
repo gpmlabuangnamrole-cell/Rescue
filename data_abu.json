@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T17:36:14.632Z",
+  "last_updated": "2026-11-19T21:36:15.842Z",
   "features": [
     {
       "type": "Feature",
@@ -10,7 +10,7 @@
         "dir": "N",
         "spd": "5",
         "warnaStatus": "KUNING",
-        "validTimeFrom": "19 Nov 2026, 22.00 WIB",
+        "validTimeFrom": "20 Nov 2026, 04.10 WIB",
         "forecast": {
           "+6": "N0140 E12755 - N0140\r\nE12752 - N0219 E12733 - N0230 E12750 - N0220 E12805",
           "+12": "N0140 E12755 - N0140\r\nE12752 - N0220 E12734 - N0231 E12754 - N0220 E12810",
@@ -30,15 +30,15 @@
               1.667
             ],
             [
-              127.55,
-              2.317
+              127.567,
+              2.333
             ],
             [
-              127.833,
-              2.5
+              127.9,
+              2.517
             ],
             [
-              128.083,
+              128.167,
               2.333
             ],
             [
@@ -140,46 +140,6 @@
             [
               112.967,
               -8.067
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "qualifier": "ERUPTION MT KARANGETANG",
-        "firName": "WAAF UJUNG PANDANG",
-        "top": 10000,
-        "dir": "NW",
-        "spd": "10",
-        "warnaStatus": "ORANYE",
-        "validTimeFrom": "19 Nov 2026, 18.30 WIB",
-        "forecast": {}
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              125.417,
-              2.75
-            ],
-            [
-              125.183,
-              2.817
-            ],
-            [
-              125.233,
-              2.9
-            ],
-            [
-              125.433,
-              2.783
-            ],
-            [
-              125.417,
-              2.75
             ]
           ]
         ]
