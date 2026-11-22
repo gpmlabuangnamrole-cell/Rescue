@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T11:41:49.646Z",
+  "last_updated": "2026-11-22T15:21:14.067Z",
   "features": [
     {
       "type": "Feature",
@@ -147,10 +147,10 @@
         "qualifier": "ERUPTION MT KARANGETANG",
         "firName": "WAAF UJUNG PANDANG",
         "top": 9000,
-        "dir": "SE",
+        "dir": "S",
         "spd": "10",
         "warnaStatus": "KUNING",
-        "validTimeFrom": "22 Nov 2026, 16.00 WIB",
+        "validTimeFrom": "22 Nov 2026, 22.00 WIB",
         "forecast": {
           "+6": "N0248 E12523 - N0248\r\nE12526 - N0231 E12533 ??- N0227 E12530 - N0231 E12522",
           "+12": "N0248 E12523 - N0249\r\nE12526 - N0231 E12535 - N0224 E12528 - N0229 E12519",
@@ -166,16 +166,20 @@
               2.8
             ],
             [
-              125.417,
-              2.817
+              125.433,
+              2.8
+            ],
+            [
+              125.55,
+              2.517
             ],
             [
               125.5,
-              2.7
+              2.45
             ],
             [
-              125.4,
-              2.667
+              125.367,
+              2.517
             ],
             [
               125.383,
