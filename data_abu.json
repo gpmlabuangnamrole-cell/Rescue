@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T15:21:14.067Z",
+  "last_updated": "2026-11-22T16:36:12.855Z",
   "features": [
     {
       "type": "Feature",
@@ -58,7 +58,7 @@
         "dir": "W",
         "spd": "10",
         "warnaStatus": "ORANYE",
-        "validTimeFrom": "22 Nov 2026, 17.00 WIB",
+        "validTimeFrom": "22 Nov 2026, 23.00 WIB",
         "forecast": {
           "+6": "S0809 E11259 - S0820\r\nE11214 - S0807 E11207 - S0753 E11212 - S0802 E11259",
           "+12": "S0809 E11259 - S0820\r\nE11214 - S0807 E11207 - S0753 E11212 - S0802 E11259",
