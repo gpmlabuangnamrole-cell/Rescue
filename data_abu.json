@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T16:36:21.726Z",
+  "last_updated": "2026-11-24T16:51:13.158Z",
   "features": [
     {
       "type": "Feature",
@@ -103,10 +103,10 @@
         "qualifier": "ERUPTION MT DUKONO",
         "firName": "WAAF UJUNG PANDANG",
         "top": 7000,
-        "dir": "NE",
+        "dir": "E",
         "spd": "10",
         "warnaStatus": "KUNING",
-        "validTimeFrom": "24 Nov 2026, 17.20 WIB",
+        "validTimeFrom": "24 Nov 2026, 23.20 WIB",
         "forecast": {
           "+6": "N0139\r\nE12750 - N0147 E12752 - N0137 E12907 - N0118 E12907 - N0105 E12856",
           "+12": "N0139 E12751 - N0146\r\nE12751 - N0149 E12907 - N0122 E12907 - N0127 E12822",
@@ -122,16 +122,16 @@
               1.783
             ],
             [
-              128.867,
-              2.483
+              128.983,
+              2.317
             ],
             [
-              129.3,
-              2.1
+              129.267,
+              2
             ],
             [
               129.233,
-              1.583
+              1.533
             ],
             [
               127.817,
