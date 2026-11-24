@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T11:36:13.508Z",
+  "last_updated": "2026-11-24T16:36:21.726Z",
   "features": [
     {
       "type": "Feature",
@@ -55,10 +55,10 @@
         "qualifier": "ERUPTION MT SEMERU",
         "firName": "WAAF UJUNG PANDANG",
         "top": 15000,
-        "dir": "NW",
-        "spd": "5",
+        "dir": "W",
+        "spd": "10",
         "warnaStatus": "ORANYE",
-        "validTimeFrom": "24 Nov 2026, 17.00 WIB",
+        "validTimeFrom": "24 Nov 2026, 23.00 WIB",
         "forecast": {
           "+6": "S0809 E11258 - S0818\r\nE11222 - S0808 E11215 - S0755 E11220 - S0803 E11258",
           "+12": "S0803 E11258 - S0808\r\nE11259 - S0825 E11226 - S0817 E11217 - S0805 E11217",
@@ -70,28 +70,28 @@
         "coordinates": [
           [
             [
-              112.967,
-              -8.167
-            ],
-            [
-              112.467,
-              -8.167
-            ],
-            [
-              112.417,
-              -7.95
-            ],
-            [
-              112.583,
-              -7.783
-            ],
-            [
-              113,
+              112.983,
               -8.05
             ],
             [
-              112.967,
+              112.983,
               -8.167
+            ],
+            [
+              112.45,
+              -8.267
+            ],
+            [
+              112.35,
+              -8.083
+            ],
+            [
+              112.45,
+              -7.9
+            ],
+            [
+              112.983,
+              -8.05
             ]
           ]
         ]
@@ -140,50 +140,6 @@
             [
               127.817,
               1.783
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "qualifier": "ERUPTION MT KARANGETANG",
-        "firName": "WAAF UJUNG PANDANG",
-        "top": 8000,
-        "dir": "SE",
-        "spd": "5",
-        "warnaStatus": "KUNING",
-        "validTimeFrom": "24 Nov 2026, 15.20 WIB",
-        "forecast": {}
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              125.283,
-              2.883
-            ],
-            [
-              125.517,
-              2.967
-            ],
-            [
-              125.683,
-              2.8
-            ],
-            [
-              125.533,
-              2.55
-            ],
-            [
-              125.267,
-              2.667
-            ],
-            [
-              125.283,
-              2.883
             ]
           ]
         ]
