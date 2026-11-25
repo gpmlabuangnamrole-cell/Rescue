@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T08:50:16.193Z",
+  "last_updated": "2026-11-25T08:50:48.457Z",
   "features": [
     {
       "type": "Feature",
@@ -155,7 +155,11 @@
         "spd": "5",
         "warnaStatus": "KUNING",
         "validTimeFrom": "25 Nov 2026, 15.20 WIB",
-        "forecast": {}
+        "forecast": {
+          "+6": "N0253 E12522 - N0252\r\nE12530 - N0237 E12536 - N0232 E12524 - N0238 E12513",
+          "+12": "N0254 E12523 - N0252\r\nE12532 - N0233 E12535 - N0229 E12520 - N0240 E12510",
+          "+18": "N0253 E12523 - N0252\r\nE12531 - N0233 E12536 - N0229 E12521 - N0240 E12510"
+        }
       },
       "geometry": {
         "type": "Polygon",
