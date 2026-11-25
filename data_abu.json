@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T23:36:12.983Z",
+  "last_updated": "2026-11-25T23:57:55.830Z",
   "features": [
     {
       "type": "Feature",
@@ -11,11 +11,7 @@
         "spd": "10",
         "warnaStatus": "KUNING",
         "validTimeFrom": "26 Nov 2026, 06.10 WIB",
-        "forecast": {
-          "+6": "N0128 E12737 - N0131\r\nE12736 - N0138 E12758 - N0131 E12803 - N0125 E12802",
-          "+12": "N0127 E12738 - N0131\r\nE12737 - N0139 E12758 - N0131 E12803 - N0125 E12802",
-          "+18": "N0128 E12738 - N0130\r\nE12737 - N0138 E12758 - N0131 E12803 - N0125 E12802"
-        }
+        "forecast": {}
       },
       "geometry": {
         "type": "Polygon",
@@ -59,11 +55,7 @@
         "spd": "10",
         "warnaStatus": "ORANYE",
         "validTimeFrom": "26 Nov 2026, 05.00 WIB",
-        "forecast": {
-          "+6": "S0809 E11258 - S0819\r\nE11229 - S0810 E11222 - S0758 E11226 - S0803 E11258",
-          "+12": "S0808 E11258 - S0822\r\nE11230 - S0815 E11223 - S0803 E11223 - S0802 E11257",
-          "+18": "S0807 E11259 - S0827\r\nE11238 - S0824 E11228 - S0812 E11225 - S0802 E11256"
-        }
+        "forecast": {}
       },
       "geometry": {
         "type": "Polygon",
@@ -107,11 +99,7 @@
         "spd": "10",
         "warnaStatus": "KUNING",
         "validTimeFrom": "26 Nov 2026, 05.20 WIB",
-        "forecast": {
-          "+6": "N0145\r\nE12751 - N0149 E12915 - N0111 E12909 - N0138 E12750",
-          "+12": "N0147 E12753 - N0131\r\nE12911 - N0056 E12851 - N0140 E12749",
-          "+18": "N0147 E12753 - N0131\r\nE12911 - N0054 E12850 - N0111 E12810 - N0140 E12749"
-        }
+        "forecast": {}
       },
       "geometry": {
         "type": "Polygon",
@@ -136,54 +124,6 @@
             [
               127.867,
               1.667
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "qualifier": "ERUPTION MT KARANGETANG",
-        "firName": "WAAF UJUNG PANDANG",
-        "top": 8000,
-        "dir": "SE",
-        "spd": "5",
-        "warnaStatus": "KUNING",
-        "validTimeFrom": "25 Nov 2026, 15.20 WIB",
-        "forecast": {
-          "+6": "N0253 E12522 - N0252\r\nE12530 - N0237 E12536 - N0232 E12524 - N0238 E12513",
-          "+12": "N0254 E12523 - N0252\r\nE12532 - N0233 E12535 - N0229 E12520 - N0240 E12510",
-          "+18": "N0253 E12523 - N0252\r\nE12531 - N0233 E12536 - N0229 E12521 - N0240 E12510"
-        }
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              125.45,
-              2.933
-            ],
-            [
-              125.667,
-              2.75
-            ],
-            [
-              125.517,
-              2.567
-            ],
-            [
-              125.267,
-              2.617
-            ],
-            [
-              125.267,
-              2.867
-            ],
-            [
-              125.45,
-              2.933
             ]
           ]
         ]
