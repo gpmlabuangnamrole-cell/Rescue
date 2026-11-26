@@ -1,54 +1,6 @@
 {
-  "last_updated": "2026-11-26T12:06:15.116Z",
+  "last_updated": "2026-11-26T15:36:13.554Z",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "qualifier": "ERUPTION MT DUKONO",
-        "firName": "WAAF UJUNG PANDANG",
-        "top": 7000,
-        "dir": "E",
-        "spd": "10",
-        "warnaStatus": "KUNING",
-        "validTimeFrom": "26 Nov 2026, 16.00 WIB",
-        "forecast": {}
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              127.817,
-              1.633
-            ],
-            [
-              127.8,
-              1.767
-            ],
-            [
-              128.283,
-              2
-            ],
-            [
-              129.8,
-              1.917
-            ],
-            [
-              129.817,
-              1.45
-            ],
-            [
-              128.1,
-              1.283
-            ],
-            [
-              127.817,
-              1.633
-            ]
-          ]
-        ]
-      }
-    },
     {
       "type": "Feature",
       "properties": {
@@ -172,6 +124,54 @@
             [
               127.6,
               1.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "qualifier": "ERUPTION MT DUKONO",
+        "firName": "WAAF UJUNG PANDANG",
+        "top": 7000,
+        "dir": "S",
+        "spd": "5",
+        "warnaStatus": "KUNING",
+        "validTimeFrom": "26 Nov 2026, 22.00 WIB",
+        "forecast": {}
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.95,
+              1.867
+            ],
+            [
+              128.383,
+              1.65
+            ],
+            [
+              128.167,
+              1.15
+            ],
+            [
+              127.567,
+              0.95
+            ],
+            [
+              127.133,
+              1.233
+            ],
+            [
+              127.7,
+              1.867
+            ],
+            [
+              127.95,
+              1.867
             ]
           ]
         ]
