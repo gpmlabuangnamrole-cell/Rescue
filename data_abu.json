@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T00:21:16.697Z",
+  "last_updated": "2026-11-26T04:36:14.528Z",
   "features": [
     {
       "type": "Feature",
@@ -40,50 +40,6 @@
             [
               127.6,
               1.467
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "qualifier": "ERUPTION MT SEMERU",
-        "firName": "WAAF UJUNG PANDANG",
-        "top": 15000,
-        "dir": "SW",
-        "spd": "10",
-        "warnaStatus": "ORANYE",
-        "validTimeFrom": "26 Nov 2026, 05.00 WIB",
-        "forecast": {}
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              112.95,
-              -8.033
-            ],
-            [
-              113,
-              -8.133
-            ],
-            [
-              112.517,
-              -8.4
-            ],
-            [
-              112.383,
-              -8.217
-            ],
-            [
-              112.4,
-              -8
-            ],
-            [
-              112.95,
-              -8.033
             ]
           ]
         ]
@@ -164,6 +120,50 @@
             [
               125.433,
               2.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "qualifier": "ERUPTION MT SEMERU",
+        "firName": "WAAF UJUNG PANDANG",
+        "top": 15000,
+        "dir": "SE",
+        "spd": "10",
+        "warnaStatus": "ORANYE",
+        "validTimeFrom": "26 Nov 2026, 11.00 WIB",
+        "forecast": {}
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.983,
+              -8.117
+            ],
+            [
+              112.7,
+              -8.533
+            ],
+            [
+              112.417,
+              -8.467
+            ],
+            [
+              112.433,
+              -8.15
+            ],
+            [
+              112.933,
+              -8.033
+            ],
+            [
+              112.983,
+              -8.117
             ]
           ]
         ]
