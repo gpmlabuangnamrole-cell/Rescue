@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T04:51:13.968Z",
+  "last_updated": "2026-11-26T05:36:15.037Z",
   "features": [
     {
       "type": "Feature",
@@ -8,9 +8,9 @@
         "firName": "WAAF UJUNG PANDANG",
         "top": 7000,
         "dir": "E",
-        "spd": "10",
+        "spd": "5",
         "warnaStatus": "KUNING",
-        "validTimeFrom": "26 Nov 2026, 06.10 WIB",
+        "validTimeFrom": "26 Nov 2026, 12.10 WIB",
         "forecast": {}
       },
       "geometry": {
@@ -26,16 +26,16 @@
               1.533
             ],
             [
-              128.05,
-              1.55
+              128.133,
+              1.5
             ],
             [
               128.2,
-              1.45
+              1.4
             ],
             [
-              128.083,
-              1.317
+              128.067,
+              1.25
             ],
             [
               127.6,
