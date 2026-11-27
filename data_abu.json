@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T04:21:13.844Z",
+  "last_updated": "2026-11-27T04:36:13.432Z",
   "features": [
     {
       "type": "Feature",
@@ -80,6 +80,50 @@
             [
               127.95,
               1.733
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "qualifier": "ERUPTION MT SEMERU",
+        "firName": "WAAF UJUNG PANDANG",
+        "top": 15000,
+        "dir": "W",
+        "spd": "15",
+        "warnaStatus": "ORANYE",
+        "validTimeFrom": "27 Nov 2026, 11.00 WIB",
+        "forecast": {}
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.967,
+              -8.117
+            ],
+            [
+              112.533,
+              -8.45
+            ],
+            [
+              112.35,
+              -8.3
+            ],
+            [
+              112.383,
+              -8.1
+            ],
+            [
+              112.95,
+              -8.05
+            ],
+            [
+              112.967,
+              -8.117
             ]
           ]
         ]
