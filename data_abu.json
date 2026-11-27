@@ -1,46 +1,6 @@
 {
-  "last_updated": "2026-11-27T03:45:08.601Z",
+  "last_updated": "2026-11-27T04:21:13.844Z",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "qualifier": "ERUPTION MT KARANGETANG",
-        "firName": "WAAF UJUNG PANDANG",
-        "top": 7000,
-        "dir": "SW",
-        "spd": "5",
-        "warnaStatus": "KUNING",
-        "validTimeFrom": "27 Nov 2026, 06.40 WIB",
-        "forecast": {}
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              125.4,
-              2.817
-            ],
-            [
-              125.45,
-              2.783
-            ],
-            [
-              125.233,
-              2.433
-            ],
-            [
-              124.983,
-              2.65
-            ],
-            [
-              125.4,
-              2.817
-            ]
-          ]
-        ]
-      }
-    },
     {
       "type": "Feature",
       "properties": {
@@ -120,50 +80,6 @@
             [
               127.95,
               1.733
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "qualifier": "ERUPTION MT SEMERU",
-        "firName": "WAAF UJUNG PANDANG",
-        "top": 15000,
-        "dir": "SW",
-        "spd": "5",
-        "warnaStatus": "ORANYE",
-        "validTimeFrom": "27 Nov 2026, 05.00 WIB",
-        "forecast": {}
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              112.95,
-              -8.05
-            ],
-            [
-              112.967,
-              -8.133
-            ],
-            [
-              112.517,
-              -8.45
-            ],
-            [
-              112.333,
-              -8.3
-            ],
-            [
-              112.4,
-              -8.1
-            ],
-            [
-              112.95,
-              -8.05
             ]
           ]
         ]
