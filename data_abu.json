@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T23:36:12.562Z",
+  "last_updated": "2026-11-27T00:06:14.392Z",
   "features": [
     {
       "type": "Feature",
@@ -10,7 +10,7 @@
         "dir": "SW",
         "spd": "5",
         "warnaStatus": "KUNING",
-        "validTimeFrom": "27 Nov 2026, 00.40 WIB",
+        "validTimeFrom": "28 Nov 2026, 06.40 WIB",
         "forecast": {}
       },
       "geometry": {
@@ -26,12 +26,12 @@
               2.783
             ],
             [
-              125.333,
-              2.4
+              125.233,
+              2.433
             ],
             [
-              125.017,
-              2.55
+              124.983,
+              2.65
             ],
             [
               125.4,
